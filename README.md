@@ -9,7 +9,7 @@
  - TestNG
  - POM
  - Allure Report
- - Data Driven To Read Data From JSON file
+ - Data Driven To Read Data From JSON
  - Cucumber 
  - Chrome Headless 
  - Jenkins Pipeline
